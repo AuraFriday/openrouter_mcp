@@ -1,8 +1,8 @@
-# OpenRouter — Access 200+ AI Models with One API
+# OpenRouter — Access 500+ AI Models with One API
 
 Access OpenRouter models through MCP
 
-> **One key. 200+ models. Semantic search finds the perfect model for any task.** Your AI can now call other AIs — smarter ones, faster ones, cheaper ones, specialized ones.
+> **One key. 500+ models. Semantic search finds the perfect model for any task.** Your AI can now call other AIs — smarter ones, faster ones, cheaper ones, specialized ones.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -15,8 +15,8 @@ Access OpenRouter models through MCP
 ### 1. 🔍 Semantic Model Search
 **Not just a list — intelligent discovery.** Search "best for code analysis" and get models ranked by actual capability match. Vector embeddings understand what you need, not just keywords.
 
-### 2. 🌐 200+ Models, One API
-**Every major AI in one place.** GPT-4, Claude, Gemini, Llama, Mistral, and 200+ more. One API key, one interface, unlimited possibilities.
+### 2. 🌐 500+ Models, One API
+**Every major AI in one place.** GPT-4, Claude, Gemini, Llama, Mistral, and 500+ more. One API key, one interface, unlimited possibilities.
 
 ### 3. 💰 Automatic Price Optimization
 **Find the cheapest model that meets your needs.** Filter by price, context length, capabilities. Get enterprise performance at fraction of the cost.
@@ -272,7 +272,7 @@ response = chat_completion(
 )
 ```
 
-**Why chat_completion matters:** Same interface for 200+ models. Switch models by changing one parameter. No code rewrite, no API changes.
+**Why chat_completion matters:** Same interface for 500+ models. Switch models by changing one parameter. No code rewrite, no API changes.
 
 ### Account Management
 
@@ -676,7 +676,7 @@ CREATE TABLE models (
 **1. Semantic Discovery**  
 Find models by capability, not name. "Good at math" → Instant ranked list.
 
-**2. 200+ Models, One API**  
+**2. 500+ Models, One API**  
 Every major AI in one place. Same code, any model.
 
 **3. Price Optimization**  
@@ -743,7 +743,7 @@ Download the installer for your platform:
 
 ## Technical Specifications
 
-**Supported Models:** 200+ (OpenAI, Anthropic, Google, Meta, Mistral, etc.)  
+**Supported Models:** 500+ (OpenAI, Anthropic, Google, Meta, Mistral, etc.)  
 **Search Method:** Vector embeddings (Qwen 0.6B, 1024-dim, cosine similarity)  
 **Database:** SQLite with vec0 extension  
 **Cache Duration:** 24 hours (configurable)  
